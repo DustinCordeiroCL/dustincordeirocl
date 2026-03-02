@@ -28,6 +28,6 @@ Desarrollador Fullstack con **más de 4 años de experiencia** en el desarrollo 
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** [dustincordeiro88](https://www.linkedin.com/in/dustincordeiro88/)
+- **LinkedIn:** [dustin-env](https://www.linkedin.com/in/dustin-env/)
 - **Location:** Santiago, Región Metropolitana, Chile 🇨🇱
 - **Email:** cordeiro.dustin00@gmail.com
