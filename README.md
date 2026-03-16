@@ -1,7 +1,7 @@
 # Hi, I'm Dustin Leandro! 🚀
-**Fullstack Developer | 4+ Years of Experience | Based in Santiago, Chile**
+**Fullstack Developer | 6+ Years of Experience | Based in Santiago, Chile**
 
-Professional with over 4 years of experience in high-scale web application development. Specialized in the **Angular** ecosystem and **Java (Spring Boot)** for creating robust microservices and APIs. Committed to Clean Code and automated testing.
+Professional with over 6 years of experience in high-scale web application development. Specialized in the **Angular** ecosystem and **Java (Spring Boot)** for creating robust microservices and APIs. Committed to Clean Code and automated testing.
 
 ---
 
