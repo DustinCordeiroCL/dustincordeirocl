@@ -1,53 +1,46 @@
 # Hi, I'm Dustin Leandro! 🚀
 
-**Fullstack Developer | 6+ Years of Experience | Based in Santiago, Chile 🇨🇱**
+**Fullstack Developer | Developer since 2017 | Based in Santiago, Chile 🇨🇱**
 
-Professional with over 6 years of experience building and modernizing scalable
-web applications. Specialized in the **Angular** ecosystem and **Java (Spring Boot)**
-for creating robust microservices and APIs. Committed to Clean Code, automated
-testing, and delivering real business value.
+Professional building and modernizing scalable web applications **since 2017**, with experience across Logistics, Healthcare and HCM sectors. Track record at Accenture (global consultancy) and independent development, specialized in **Angular**, **React** and **Next.js** on the frontend, and **Java (Spring Boot)** and **PHP (Laravel)** on the backend, building robust microservices and APIs. Committed to Clean Code, automated testing and delivering real business value.
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Frontend:** Angular (v13–v21), ReactJS, TypeScript, RxJS, HTML5, CSS3/SCSS, Material UI, PrimeNG.
-- **Backend:** Java (Spring Boot), PHP (Laravel), Kotlin, Node.js, Microservices,
-  JPA/Hibernate, Spring Security (OAuth2, Firebase), Flyway, Swagger/OpenAPI.
-- **Cloud & DevOps:** GCP, Azure, Docker, CI/CD (Jenkins, Azure Pipelines),
-  Git (GitHub/GitKraken), UNIX/Linux.
-- **Databases & APIs:** PostgreSQL, MySQL, REST/SOAP APIs, Apigee.
-- **Testing:** JUnit, Jest, Jasmine, SonarQube, TDD.
+- **Frontend:** Angular (v11–v21, Standalone Components, Signals), ReactJS, React Native + Expo, Next.js (14/15, App Router, SSR), TypeScript, RxJS, HTML5, CSS3/SCSS, Material UI, PrimeNG, shadcn/ui, Tailwind CSS, Figma.
+- **Backend:** Java (Spring Boot 3/4), Kotlin, PHP (Laravel), Node.js, Microservices, JPA/Hibernate, Spring Security (JWT, OAuth2, Firebase Auth), Flyway, Swagger/OpenAPI.
+- **AI & Automation:** Anthropic Claude API (Haiku/Sonnet), AI agent design, web scraping with Playwright.
+- **Cloud & DevOps:** GCP (Cloud Run, Cloud SQL, Cloud Storage), Azure, Docker, Kubernetes, CI/CD (Jenkins, Azure Pipelines), Git (GitHub/GitKraken), UNIX/Linux.
+- **Databases & APIs:** PostgreSQL + PostGIS, MySQL, SQL Server, SQLite, Prisma ORM, Turso (libSQL), REST/SOAP APIs, Apigee.
+- **Testing:** JUnit 5, Mockito, MockMvc, Jest, Jasmine, SonarQube, TDD.
 
 ---
 
 ### 🌎 Español (Perfil Profesional)
 
-Desarrollador Fullstack con **más de 6 años de experiencia** construyendo y
-modernizando aplicaciones web de alto impacto en sectores de Logística, Salud
-y HCM. Trayectoria en Accenture (consultoría global) y desarrollo independiente,
-especializado en integrar backend robusto (Java Spring Boot, PHP Laravel) con
-interfaces modernas (Angular, ReactJS). Orientado a buenas prácticas,
-arquitecturas de microservicios y entrega de valor real al negocio.
+Desarrollador Fullstack **desde 2017** construyendo y modernizando aplicaciones web de alto impacto en sectores de Logística, Salud y HCM. Trayectoria en Accenture (consultoría global) y desarrollo independiente, especializado en integrar backend robusto (**Java Spring Boot, PHP Laravel**) con interfaces modernas (**Angular, ReactJS**). Orientado a buenas prácticas, arquitecturas de microservicios y entrega de valor real al negocio.
 
 ---
 
 ### 🚀 Recent Projects
 
-- **🍽️ Dynamic Menu Platform** — Fullstack web app for restaurant menu management,
-  with admin panel and customer-facing frontend. Built with Angular + Spring Boot.
-  Currently being generalized for portfolio on Vercel.
+- **🍽️ Digital Menu Platform** — Production web app for a restaurant in Santiago. Built with Next.js 14 (App Router, SSR), Prisma + Turso, NextAuth.js, 3-language i18n (PT/ES/EN), drag & drop admin panel and OTP 2FA. Deployed on Vercel.
+  
+- **🤖 AI-Powered Freelance Aggregator** — Centralizes 10 freelance sources via REST APIs, RSS and Playwright scraping. Uses Claude API agents (Haiku for scoring, Sonnet for proposals) to match opportunities against my professional profile.
 
-- **🤖 AI-Powered Freelance Aggregator** — Personal platform integrating 10 freelance
-  marketplaces via REST APIs, RSS feeds and web scraping. Uses AI agents (Claude API)
-  to automatically filter and prioritize opportunities based on professional profile.
+- **💰 Personal Finance System** — Full-stack app with Java 21 + Spring Boot 3, stateless JWT, PostgreSQL, full test coverage (JUnit 5, Mockito, MockMvc) and Swagger/OpenAPI. Frontend in Angular 21 with Signals and PrimeNG.
+  
+- **🛒 Crowdsourced Price Tracker** — Collaborative platform to find cheaper products within a 20km radius. Kotlin + Spring Boot 4, PostgreSQL + PostGIS, GCP, React Native + Expo with gamification mechanics.
 
 ---
 
 ### 📈 Current Focus
 
 - Java 21 + Spring Boot — Clean Architecture and SOLID principles.
-- Angular 21 — Modern components and reactive patterns.
+- Angular 21 + Next.js 15 — Modern components, reactive patterns and SSR.
+- ReactJS + React Native — Cross-platform mobile and web development.
+- PHP Laravel — Backend development and legacy system modernization.
 - AI Agents integration — Claude API for automation and intelligent workflows.
 - Cloud Computing (GCP / Azure).
 
@@ -57,4 +50,5 @@ arquitecturas de microservicios y entrega de valor real al negocio.
 
 - **LinkedIn:** [dustin-env](https://www.linkedin.com/in/dustin-env/)
 - **Location:** Santiago, Región Metropolitana, Chile 🇨🇱
+- **Portfolio:** [dustincordeiro.dev](https://dustincordeiro.dev)
 - **Email:** cordeiro.dustin00@gmail.com
